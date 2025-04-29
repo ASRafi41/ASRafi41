@@ -11,7 +11,7 @@
 
 - 🏆 **Solved 2,000+ problems on online coding platforms**
 
-- 🤖 Exploring **AI/ML (TensorFlow, scikit-learn, transformers)**
+- 🤖 Exploring **AI/ML (TensorFlow, transformers)**
 
 - 📫 How to reach me **abusufianrafi326276@gmail.com**
 
