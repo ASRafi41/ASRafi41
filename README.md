@@ -85,10 +85,10 @@ gantt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ASRafi41&show_icons=true&hide_border=true&border_radius=10&bg_color=000000&title_color=ffffff&icon_color=6e7681&text_color=8b949e&ring_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASRafi41&layout=compact&hide_border=true&border_radius=10&bg_color=000000&title_color=ffffff&text_color=8b949e" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=ASRafi41&show_icons=true&hide_border=true&border_radius=10&bg_color=0D0D0D&title_color=39FF14&icon_color=00FF9F&text_color=39FF14&ring_color=39FF14" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASRafi41&layout=compact&hide_border=true&border_radius=10&bg_color=0D0D0D&title_color=39FF14&text_color=00FF9F" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=ASRafi41&hide_border=true&border_radius=10&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&stroke=6e7681" height="165" />
+<img src="https://streak-stats.demolab.com?user=ASRafi41&hide_border=true&border_radius=10&background=0D0D0D&ring=39FF14&fire=00FF9F&currStreakLabel=39FF14&sideLabels=00FF9F&dates=39FF14&stroke=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF" height="165" />
 
 </div>
 
