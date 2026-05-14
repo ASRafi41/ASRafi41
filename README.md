@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,50:1a0533,100:0d1117&height=200&text=Abu%20Sufian%20Rafi&fontColor=a78bfa&fontSize=46&fontAlignY=70&desc=%3E_%20Software%20Engineer%20%7C%20Competitive%20Programmer&descColor=6ee7b7&descSize=16&descAlignY=85&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:1c2a4a&height=210&text=Abu%20Sufian%20Rafi&fontColor=ffffff&fontSize=46&fontAlignY=65&desc=%3E_%20Software%20Engineer%20%7C%20Competitive%20Programmer&descColor=79c0ff&descSize=16&descAlignY=82" />
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=6EE7B7&center=true&vCenter=true&width=660&lines=%24+.%2Fasrafi41+--about;IEEEXtreme+18.0+%E2%80%94+%231+Bangladesh+%C2%B7+%23349+Global;2%2C000%2B+problems+solved+%C2%B7+300%2B+contests;Building+reliable+products+that+solve+real+problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=79C0FF&center=true&vCenter=true&width=660&lines=%24+.%2Fasrafi41+--about;IEEEXtreme+18.0+%E2%80%94+%232+Bangladesh+%C2%B7+%23349+Global;2%2C000%2B+problems+solved+%C2%B7+300%2B+contests;Building+reliable+products+that+solve+real+problems)](https://git.io/typing-svg)
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ASRafi41&style=flat-square&color=a78bfa&label=views)](https://github.com/ASRafi41)
+![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-2ea44f?style=flat-square)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ASRafi41&style=flat-square&color=2f81f7&label=views)](https://github.com/ASRafi41)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abu-sufian-rafi/)
-[![Portfolio](https://img.shields.io/badge/portfolio-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://abu-sufian-rafi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/portfolio-2f81f7?style=flat-square&logo=vercel&logoColor=white)](https://abu-sufian-rafi.vercel.app/)
 [![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abusufianrafi326276@gmail.com)
 
 </div>
@@ -27,11 +29,13 @@ asrafi41@github:~$ cat profile.txt
   ╠═══════════════════════════════════════════════════════════════╣
   ║  cp        →  2,000+ problems solved                        ║
   ║  contests  →  300+ online  |  20+ onsite                    ║
-  ║  trophy    →  IEEEXtreme 18.0 — #1 Bangladesh  |  #349 🌍  ║
+  ║  trophy    →  IEEEXtreme 18.0 — #2 Bangladesh  |  #349 🌍  ║
   ╠═══════════════════════════════════════════════════════════════╣
   ║  stack     →  Flutter · Unity · Firebase · MySQL            ║
   ║  langs     →  C++ · Dart · Python · Java · C# · JS · PHP   ║
   ║  edu       →  B.Sc CSE · Leading University · 2025          ║
+  ╠═══════════════════════════════════════════════════════════════╣
+  ║  status    →  🟢 Open to Work                               ║
   ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -39,13 +43,21 @@ asrafi41@github:~$ cat profile.txt
 
 ## Tech Stack
 
-```diff
-+ Languages    C++  ·  Dart  ·  Python  ·  Java  ·  C#  ·  JavaScript  ·  PHP
-+ Mobile       Flutter  ·  Firebase  ·  Dart  ·  Android Studio
-+ Game Dev     Unity  ·  C#  ·  Game Architecture
-+ Backend      MySQL  ·  PHP  ·  REST APIs  ·  Firebase Firestore
-+ Practices    Git  ·  Clean Architecture  ·  State Management
-```
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,cs,dart,js,php&theme=dark&perline=7" />
+
+**Frameworks & Platforms**
+
+<img src="https://skillicons.dev/icons?i=flutter,unity,firebase,mysql,git,html,css&theme=dark&perline=7" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,github,linux&theme=dark&perline=7" />
+
+</div>
 
 ---
 
@@ -75,10 +87,10 @@ gantt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ASRafi41&show_icons=true&theme=merko&border_radius=10&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6ee7b7&text_color=c9d1d9&ring_color=a78bfa" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASRafi41&layout=compact&theme=merko&border_radius=10&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=ASRafi41&show_icons=true&theme=github_dark&border_radius=10&hide_border=true&title_color=79c0ff&icon_color=2f81f7&text_color=c9d1d9&ring_color=2f81f7" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASRafi41&layout=compact&theme=github_dark&border_radius=10&hide_border=true&title_color=79c0ff&text_color=c9d1d9" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=ASRafi41&theme=merko&border_radius=10&hide_border=true&background=0d1117&ring=a78bfa&fire=6ee7b7&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" height="165" />
+<img src="https://streak-stats.demolab.com?user=ASRafi41&theme=github-dark-blue&border_radius=10&hide_border=true&ring=2f81f7&fire=f78166&currStreakLabel=79c0ff" height="165" />
 
 </div>
 
@@ -102,7 +114,13 @@ gantt
 ## Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASRafi41&theme=merko&hide_border=true&bg_color=0d1117&color=a78bfa&line=6ee7b7&point=ffffff&area=true&area_color=1a0533" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASRafi41&theme=github_dark" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASRafi41&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASRafi41&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ASRafi41&theme=github_dark&utcOffset=6" height="180" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a0533,100:0d0d0d&height=80&section=footer&reversal=true" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:1c2a4a,100:0d1117&height=80&section=footer&reversal=true" />
