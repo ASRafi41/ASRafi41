@@ -102,7 +102,7 @@ gantt
 |:-:|---|---|
 | <img src="https://img.shields.io/badge/-CF-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /> | **Codeforces** | [ASRafi41](https://codeforces.com/profile/ASRafi41) |
 | <img src="https://img.shields.io/badge/-CC-5B4638?style=flat-square&logo=codechef&logoColor=white" /> | **CodeChef** | [asrafi41](https://www.codechef.com/users/asrafi41) |
-| <img src="https://img.shields.io/badge/-LC-FFA116?style=flat-square&logo=leetcode&logoColor=black" /> | **LeetCode** | [ASRafi41](https://leetcode.com/ASRafi41) |
+| <img src="https://img.shields.io/badge/-LC-FFA116?style=flat-square&logo=leetcode&logoColor=black" /> | **LeetCode** | [ASRafi](https://leetcode.com/ASRafi) |
 | <img src="https://img.shields.io/badge/-AC-222222?style=flat-square&logo=atcoder&logoColor=white" /> | **AtCoder** | [ASRafi41](https://atcoder.jp/users/ASRafi41) |
 
 </div>
